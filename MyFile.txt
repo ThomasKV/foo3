@@ -1,0 +1,4 @@
+MyFile.txt has something in it.
+In the next version of the file I added this line.
+This line was altered in GitHub by me.
+Another line was altered in GitHub by me.
